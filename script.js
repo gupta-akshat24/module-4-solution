@@ -1,11 +1,11 @@
 (function () {
 
-var names = ["Jimmy", "Mathew", "Rem", "Niko", "Jordi", "Carl", "Petrov", "Ed", "Joseph", "Dan"];
+var names = ["Jimmy", "Zac", "Rem", "Niko", "Jordi", "Zoro", "Petrov", "Ed", "Zeus", "Dan"];
 
 for (var i = 0; i < names.length; i++) {
   var firstLetter = names[i].charAt(0).toLowerCase();
 
-  if (firstLetter === 'j') {
+  if (firstLetter === 'z') {
     byeSpeaker(names[i]);
   }
   else {
