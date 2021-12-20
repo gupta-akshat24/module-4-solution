@@ -1,7 +1,7 @@
 # module-4-solution
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-link:https://github.com/gupta-akshat24/module-4-solution.git
+link:https://gupta-akshat24.github.io/module-4-solution/
 
 
 
