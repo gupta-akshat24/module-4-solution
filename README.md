@@ -3,6 +3,8 @@ Coursera course: HTML, CSS, and Javascript for Web Developers
 
 link:https://gupta-akshat24.github.io/module-4-solution/
 
+CLICK THE LINK AND THEN INSPECT AND THEN OPEN CONSOLE
+
 
 
 Let's write a little bit of Javascript programming code to practice what we've learned! Woohoo! :-)
